@@ -8,9 +8,16 @@ export default createGlobalStyle`
   }
 
   body {
-    background: '#C4c4c4';
+    background: #FFF;
+    color: #313131;
+
     font-size: 16px;
-    color: '#313131';
     font-family: sans-serif;
+    
+    max-width: 700px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: space-around;
   }
 `;

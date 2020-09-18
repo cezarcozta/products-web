@@ -7,8 +7,8 @@
 
 ## Techs and Tools  
 
--React
--TS
+- React  
+- TS  
 
 ### Getting Started
 
@@ -17,4 +17,4 @@
 
 #### Author  
 
--César Augusto Costa
+- César Augusto Costa  
