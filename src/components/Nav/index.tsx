@@ -1,12 +1,16 @@
 import React from 'react';
 
-import { Container, Button } from '../../styles/components/Nav';
+import { Container, NavButton } from '../../styles/components/Nav';
 
 const Nav: React.FC = () => {
   return (
     <Container>
-      <Button>Cadastrar</Button>
-      <Button>Entrar</Button>
+      <NavButton>
+        <a href="/">Cadastrar</a>
+      </NavButton>
+      <NavButton>
+        <a href="/">Entrar</a>
+      </NavButton>
     </Container>
   );
 }

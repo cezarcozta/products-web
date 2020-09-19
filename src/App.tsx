@@ -4,6 +4,7 @@ import GlobalStyle from './styles/global';
 
 import Header from './components/Header';
 import Nav from './components/Nav';
+import SignUp from './pages/SignUp';
 
 const App: React.FC = () => {
   return (
@@ -11,6 +12,7 @@ const App: React.FC = () => {
       <GlobalStyle />
       <Header />
       <Nav />
+      <SignUp />
     </>
   );
 }

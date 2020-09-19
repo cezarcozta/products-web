@@ -14,10 +14,13 @@ export default createGlobalStyle`
     font-size: 16px;
     font-family: sans-serif;
     
-    max-width: 700px;
+    max-width: 360px;
+    max-height: 640px;
+  }
 
+  html{
     display: flex;
-    flex-direction: column;
-    align-items: space-around;
+    align-items: center;
+    justify-content: center;
   }
 `;
