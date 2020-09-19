@@ -3,17 +3,38 @@
 <div align="center"
 >
   GIF
-</div>
+</div>  
 
-## Techs and Tools  
+- **Mobile First**  
+- **Design System**  
 
-- React  
-- TS  
+## Techs  
 
-### Getting Started
+- ReactJS  
+- Typescript  
+- styled-components  
+
+### Getting Started  
 
 ```bash
-```
+# Clone this repository
+$ git clone https://github.com/cezarcozta/products-web.git
+
+# Access the project folder
+
+$ cd products-web
+
+# Install all dependencies
+
+$ yarn
+
+# Run local
+
+$ yarn start
+```  
+
+> check browser at localhost on port 3000  
+> [click here](http://localhost:3000/)
 
 #### Author  
 
